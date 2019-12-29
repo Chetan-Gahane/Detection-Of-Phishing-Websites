@@ -1,10 +1,9 @@
-# Malicious Web Content Detection using Machine Learning
-### (Paper published at - http://ieeexplore.ieee.org/document/8256834/)
+# Detection Of Phishing Websites.
 
-#### Abstract -
+
 * Naive users using a browser have no idea about the back-end of the page. The users might be tricked into giving away their credentials or downloading malicious data. 
-* Our aim is to create an extension for Chrome which will act as middleware between the users and the malicious websites, and mitigate the risk of users succumbing to such websites. 
-* Further, all harmful content cannot be exhaustively collected as even that is bound to continuous development. To counter this we are using machine learning - to train the tool and categorize the new content it sees every time into the particular categories so that corresponding action can be taken.
+* The aim is to create an extension for Chrome which will act as middleware between the users and the malicious websites, and mitigate the risk of users succumbing to such websites. 
+* Further, all harmful content cannot be exhaustively collected as even that is bound to continuous development. To counter this machine learning is used - to train the tool and categorize the new content it sees every time into the particular categories so that corresponding action can be taken.
 
 ### Take a look at the [Demo](https://youtu.be/0-wky0h3hmM)
 
